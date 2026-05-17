@@ -5,6 +5,18 @@
     "socialdata.tools": {
       "openapiUrl": "https://docs.socialdata.tools/openapi.yaml"
     },
+    "xquik": {
+      "categories": ["marketing", "social"],
+      "auth_mode": "API_KEY",
+      "info": {
+        "description": "Xquik provides a REST API for X/Twitter search, profiles, timelines, trends, media, webhooks, and automation workflows.",
+        "x-links": {
+          "docsUrl": "https://docs.xquik.com/api-reference/overview",
+          "apiManagementUrl": "https://xquik.com/en/dashboard/api-keys"
+        }
+      },
+      "openapiUrl": "https://xquik.com/openapi.json"
+    },
     "github": {
       "isTrustedOauthLink": true,
       "info": {
